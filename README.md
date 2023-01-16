@@ -26,7 +26,7 @@ The username is their name and password for everyone is 'project123'.
 
 Example usernames:  
 student- 'Bhagya'  
-teacher- 'Narender'  
+teacher- 'Manjula'  
 
 You can access the django admin page at **http://127.0.0.1:8000/admin** and login with username 'admin' and the above password.
 
